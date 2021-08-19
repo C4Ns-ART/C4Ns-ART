@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Musa Can Bozoglu from Istanbul/Turkey I'm 24 years old. I'm graduated from KOU (Kocaeli Universty) in Automobile Technology. I'm working on C# Form programming In addition I'm create and managing Multi Theft Auto game servers
+I'm Musa Can Bozoglu from Istanbul/Turkey I'm 24 years old. I'm graduated from KOU (Kocaeli Universty) in Automobile Technology. I'm working on C# Form programming In addition I'm create and managing Multi Theft Auto game servers
 
 <!--
 **C4Ns-ART/C4Ns-ART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
