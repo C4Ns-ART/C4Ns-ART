@@ -1,6 +1,9 @@
 ### Hi Everyone 👋
 I'm Musa Can Bozoglu from Istanbul/Turkey I'm 24 years old. I'm graduated from KOU (Kocaeli Universty) in Automobile Technology. I'm working on C# Form programming In addition I'm create and managing Multi Theft Auto game servers
 
+Working
+* 🔭 Kızıl Gaming (www.kizilgaming.com)
+
 Skills and Experience
 * ⚡ C#
 * ⚡ Lua
