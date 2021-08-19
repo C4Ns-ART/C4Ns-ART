@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Musa Can Bozoglu from Istanbul/Turkey I'm 24 years old. I'm graduated from KOU (Kocaeli Universty) in Automobile Technology. I'm working on C# Form programming In addition I'm create and managing Multi Theft Auto game servers
 
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=C4N-sART)](https://github.com/C4N-sART/github-readme-stats)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=C4Ns-ART)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **C4Ns-ART/C4Ns-ART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
