@@ -6,6 +6,7 @@ Working
 
 Skills and Experience
 * ⚡ C#
+* ⚡ Python
 * ⚡ Lua
 * ⚡ HTML, CSS, JS, PHP
 
